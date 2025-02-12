@@ -19,25 +19,33 @@ Author of several Python packages:
 
 ---
 
-## **WORK EXPERIENCE**
+## **WORK EXPERIENCE**  
+**Applied Scientist II** — [Amazon](https://amazon.com)  
+*2024.01 — Now*  
 
-| Position                  | Company                                           | Dates          |
-|---------------------------|--------------------------------------------------|---------------|
-| **Applied Scientist II**  | [Amazon](https://amazon.com)                     | 2024.01 — Now |
-| **Sr. Staff Data Scientist** | [SecurityScorecard](https://securityscorecard.com) | 2021.05 – 2023.07 |
-| **Sr. Data Scientist**    | [Orbis Investments](https://www.orbis.com)       | 2017.10 – 2021.04 |
-| **Data Scientist**        | [Crelogix](https://www.crelogix.com)             | 2015.08 – 2017.08 |
+**Sr. Staff Data Scientist** — [SecurityScorecard](https://securityscorecard.com)  
+*2021.05 – 2023.07*  
+
+**Sr. Data Scientist** — [Orbis Investments](https://www.orbis.com)  
+*2017.10 – 2021.04*  
+
+**Data Scientist** — [Crelogix](https://www.crelogix.com)  
+*2015.08 – 2017.08*  
 
 ---
 
-## **EDUCATION**
+## **EDUCATION**  
+**PhD: Computer Science** — [University of British Columbia](https://www.ubc.ca)  
+*2014*  
 
-| Degree                              | University                                      | Year  |
-|-------------------------------------|------------------------------------------------|------|
-| **PhD: Computer Science**          | [University of British Columbia](https://www.ubc.ca) | 2014 |
-| **Diploma: Management (unfinished)** | [McGill University](https://www.mcgill.ca)      | 2007 |
-| **MSc: Electrical Engineering**     | [Concordia University](https://www.concordia.ca) | 2005 |
-| **BSc: Electrical Engineering**     | [University of Tehran](https://ut.ac.ir/en)    | 2003 |
+**Diploma: Management (unfinished)** — [McGill University](https://www.mcgill.ca)  
+*2007*  
+
+**MSc: Electrical Engineering** — [Concordia University](https://www.concordia.ca)  
+*2005*  
+
+**BSc: Electrical Engineering** — [University of Tehran](https://ut.ac.ir/en)  
+*2003*  
 
 ---
 
