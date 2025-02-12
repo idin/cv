@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # Idin Karuei  
 **PhD in Computer Science | Applied Scientist at Amazon | 10+ years of industry experience**  
 🔗 [LinkedIn](https://linkedin.com/in/idin) |
