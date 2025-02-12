@@ -11,7 +11,7 @@ body {
 
 /* Link styling */
 a {
-    color: #32cd32; /* Softer green */
+    color: #32cd32 !important; /* Softer green */
     font-family: "Fira Code", "Courier New", Courier, monospace; /* Taller monospace font */
     text-decoration: none;
 }
