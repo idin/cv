@@ -20,32 +20,18 @@ Author of several Python packages:
 ---
 
 ## **WORK EXPERIENCE**  
-**Applied Scientist II** — [Amazon](https://amazon.com)  
-*2024.01 — Now*  
-
-**Sr. Staff Data Scientist** — [SecurityScorecard](https://securityscorecard.com)  
-*2021.05 – 2023.07*  
-
-**Sr. Data Scientist** — [Orbis Investments](https://www.orbis.com)  
-*2017.10 – 2021.04*  
-
-**Data Scientist** — [Crelogix](https://www.crelogix.com)  
-*2015.08 – 2017.08*  
+**Applied Scientist II** — [Amazon](https://amazon.com) — *2024.01 — Now*  
+**Sr. Staff Data Scientist** — [SecurityScorecard](https://securityscorecard.com) — *2021.05 – 2023.07*  
+**Sr. Data Scientist** — [Orbis Investments](https://www.orbis.com) — *2017.10 – 2021.04*  
+**Data Scientist** — [Crelogix](https://www.crelogix.com) — *2015.08 – 2017.08*  
 
 ---
 
 ## **EDUCATION**  
-**PhD: Computer Science** — [University of British Columbia](https://www.ubc.ca)  
-*2014*  
-
-**Diploma: Management (unfinished)** — [McGill University](https://www.mcgill.ca)  
-*2007*  
-
-**MSc: Electrical Engineering** — [Concordia University](https://www.concordia.ca)  
-*2005*  
-
-**BSc: Electrical Engineering** — [University of Tehran](https://ut.ac.ir/en)  
-*2003*  
+**PhD: Computer Science** — [University of British Columbia](https://www.ubc.ca) — *2014*  
+**Diploma: Management (unfinished)** — [McGill University](https://www.mcgill.ca) — *2007*  
+**MSc: Electrical Engineering** — [Concordia University](https://www.concordia.ca) — *2005*  
+**BSc: Electrical Engineering** — [University of Tehran](https://ut.ac.ir/en) — *2003*  
 
 ---
 
