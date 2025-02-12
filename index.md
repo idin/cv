@@ -16,7 +16,9 @@ Author of several Python packages:
 - [Amazonian 🐊](https://pypi.org/project/amazonian)  
 - [Nightingale 🐦](https://pypi.org/project/nightingale)  
 - [Silverware 🍴](https://pypi.org/project/silverware)  
-
+```bash
+pip install atlantis abstract pensieve linguistics amazonian nightingale silverware
+```
 ---
 
 ## **WORK EXPERIENCE**  
