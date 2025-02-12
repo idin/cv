@@ -32,12 +32,12 @@ Author of several Python packages:
 ## **HARD SKILLS**
 
 ### **Machine Learning 🤖**
-Predictive Modeling, Unsupervised Learning, Recommender Systems
-Deep Neural Networks, Embedding Models, KNN Search, Generative AI  
+Predictive Modeling, Unsupervised Learning, Recommender Systems  
+Deep Neural Networks, Embedding Models, KNN Search, Generative AI    
 NLP Techniques, Entity Recognition, Feature Engineering
 
 ### **Data Science ⚖️**
-Statistical Data Analysis, A/B Testing, Hypothesis Testing
+Statistical Data Analysis, A/B Testing, Hypothesis Testing  
 Experiment Design, Survival Analysis, Visualization  
 
 ### **Tech Stack 📚**
