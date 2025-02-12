@@ -1,20 +1,30 @@
 body {
-    background-color: #121212; /* Dark gray, softer than black */
-    color: #e0e0e0; /* Soft white text */
-    font-family: "Courier New", Courier, monospace; /* Retro monospace */
+    background-color: #181818; /* Dark gray instead of pure black */
+    color: #b0b0b0; /* Softer gray text */
+    font-family: "Courier New", Courier, monospace; /* Retro font */
     line-height: 1.6;
     padding: 20px;
 }
 
 a {
-    color: #1db954; /* Spotify-like green */
+    color: #32cd32; /* Softer green, not too neon */
     font-family: "Courier New", Courier, monospace;
     text-decoration: none;
 }
 
 a:hover {
-    color: #17a347; /* Darker green on hover */
+    color: #228b22; /* Slightly darker green on hover */
     text-decoration: underline;
 }
 
-h1,
+h1, h2, h3 {
+    color: #d0d0d0; /* Dimmed headers for balance */
+}
+
+pre, code {
+    background-color: #222;
+    color: #90ee90; /* Light green for code */
+    font-family: "Courier New", Courier, monospace;
+    padding: 5px;
+    border-radius: 5px;
+}
