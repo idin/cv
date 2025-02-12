@@ -2,11 +2,11 @@
 **PhD in Computer Science | Applied Scientist at Amazon | 10+ years of industry experience**  
 🔗 [LinkedIn](https://linkedin.com/in/idin) |
 🐙 [GitHub](https://github.com/idin) |
-👉 **[Download My CV (PDF)](idin.pdf)**  
+💾 **[Download My CV (PDF)](idin.pdf)**  
 
 ## **Summary**
 Experienced Data Scientist with expertise in **Machine Learning, Credit Risk, Investment Research, Cybersecurity, and Ad Sourcing**.  
-Author of several Python packages: [Atlantis🌋](https://pypi.org/project/atlantis), [Abstract🕸️](https://pypi.org/project/abstract), [Pensieve🧠](https://pypi.org/project/pensieve), [Linguistics🈺](https://pypi.org/project/linguistics), [Amazonian🐊](https://pypi.org/project/amazonian), [Nightingale🐦](https://pypi.org/project/nightingale), and [Silverware🍴](https://pypi.org/project/silverware).
+Author of several Python packages: [Atlantis🌋](https://pypi.org/project/atlantis), [Abstract🕸️](https://pypi.org/project/abstract), [Pensieve🧠](https://pypi.org/project/pensieve), [Linguistics🈺](https://pypi.org/project/linguistics), [Amazonian🐊](https://pypi.org/project/amazonian), [Nightingale🐦](https://pypi.org/project/nightingale), and [Silverware🍴](https://pypi.org/project/silverware)
 
 ---
 
