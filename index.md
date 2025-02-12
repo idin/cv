@@ -5,7 +5,7 @@
 
 ## **Summary**
 Experienced Data Scientist with expertise in **Machine Learning, Credit Risk, Investment Research, Cybersecurity, and Ad Sourcing**.  
-Author of several Python packages, including **Atlantis, Abstract, Pensieve, Linguistics, Amazonian, Nightingale, and Silverware**.  
+Author of several Python packages, including **[Atlantis](https://pypi.org/project/atlantis), Abstract, Pensieve, Linguistics, Amazonian, Nightingale, and Silverware**.  
 
 ---
 
