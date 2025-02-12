@@ -1,4 +1,6 @@
-# Idin  
+# Idin
+**[Download My CV](idin.pdf)**  
+
 **Data Scientist | Machine Learning Engineer**  
 📧 your@email.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
