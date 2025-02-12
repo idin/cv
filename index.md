@@ -126,5 +126,4 @@ Databricks, Snowflake, Tableau, AWS
 
 ---
 
-## **How to Download My Resume**
 👉 **[Download My CV (PDF)](idin.pdf)**  
