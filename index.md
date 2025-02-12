@@ -1,6 +1,5 @@
 # Idin Karuei  
 **PhD in Computer Science | Applied Scientist at Amazon | 10+ years of industry experience**  
-📞 778-990-4346 | 📧 [idin@idin.ca](mailto:idin@idin.ca)  
 🔗 [LinkedIn](https://linkedin.com/in/idin) | 🐙 [GitHub](https://github.com/idin)  
 👉 **[Download My CV (PDF)](idin.pdf)**  
 
