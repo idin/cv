@@ -9,10 +9,7 @@
 ## **Summary**
 Experienced Data Scientist with expertise in **Machine Learning, Credit Risk, Investment Research, Cybersecurity, and Ad Sourcing**.  
 Author of several Python packages:  
-`pip install`  
-[`atlantis 🌋`](https://pypi.org/project/atlantis) [`abstract 🕸️`](https://pypi.org/project/abstract)  
-[`pensieve 🧠`](https://pypi.org/project/pensieve) [`linguistics 🈺`](https://pypi.org/project/linguistics)  
-[`amazonian 🐊`](https://pypi.org/project/amazonian) [`nightingale 🐦`](https://pypi.org/project/nightingale)  
+`pip install` [`atlantis 🌋`](https://pypi.org/project/atlantis) [`abstract 🕸️`](https://pypi.org/project/abstract) [`pensieve 🧠`](https://pypi.org/project/pensieve) [`linguistics 🈺`](https://pypi.org/project/linguistics) [`amazonian 🐊`](https://pypi.org/project/amazonian) [`nightingale 🐦`](https://pypi.org/project/nightingale)  
 [`silverware 🍴`](https://pypi.org/project/silverware)  
 
 ---
