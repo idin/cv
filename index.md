@@ -2,7 +2,7 @@
 
 # Idin Karuei  
 **PhD in Computer Science | Applied Scientist at Amazon | 10+ years of industry experience**  
-🔗 [LinkedIn](https://linkedin.com/in/idin) | 🐙 [GitHub](https://github.com/idin) | 💾 **[Download My CV (PDF)](idin.pdf)**  
+🔗 **[LinkedIn](https://linkedin.com/in/idin)** | 🐙 **[GitHub](https://github.com/idin)** | 💾 **[Download My CV (PDF)](idin.pdf)**  
 
 ---
 
