@@ -1,3 +1,6 @@
+/* Import Fira Code for better monospace readability */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
+
 body {
     background-color: #181818; /* Dark gray instead of pure black */
     color: #b0b0b0; /* Softer gray text */
@@ -6,9 +9,10 @@ body {
     padding: 20px;
 }
 
+/* Link styling */
 a {
-    color: #32cd32; /* Softer green, not too neon */
-    font-family: "Courier New", Courier, monospace;
+    color: #32cd32; /* Softer green */
+    font-family: "Fira Code", "Courier New", Courier, monospace; /* Taller monospace font */
     text-decoration: none;
 }
 
@@ -17,14 +21,24 @@ a:hover {
     text-decoration: underline;
 }
 
-h1, h2, h3 {
-    color: #d0d0d0; /* Dimmed headers for balance */
+/* Code blocks and inline code */
+pre, code {
+    background-color: #222; /* Darker background for contrast */
+    color: #90ee90; /* Light green text */
+    font-family: "Fira Code", "Courier New", Courier, monospace; /* Taller monospace font */
+    font-size: inherit; /* Keep natural size */
+    line-height: 1.4; /* Slightly taller spacing */
+    padding: 8px; /* Better spacing inside code blocks */
+    border-radius: 5px; /* Rounded corners */
+    overflow-x: auto; /* Prevents horizontal overflow */
 }
 
-pre, code {
-    background-color: #222;
-    color: #90ee90; /* Light green for code */
-    font-family: "Courier New", Courier, monospace;
-    padding: 5px;
-    border-radius: 5px;
+/* Code blocks specifically */
+pre {
+    padding: 12px; /* More spacing inside code blocks */
+}
+
+/* Make headers slightly dimmer */
+h1, h2, h3 {
+    color: #d0d0d0; /* Dimmed headers for better contrast */
 }
