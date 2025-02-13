@@ -63,7 +63,7 @@ Databricks, Snowflake, Tableau, AWS
 - The model has *97%* precision and *76%* recall  
 - Reduced computation cost by *$216 thousand* per year  
 
-### *RiskGraph: Supply Chain Risk Estimation* – [SecurityScorecard](https://securityscorecard.com)
+### *RiskGraph*: **Supply Chain Risk Estimation** – [SecurityScorecard](https://securityscorecard.com)
 - Developed a novel probabilistic graph model for 3rd & 4th party risk  
 - SecurityScorecard is filing a patent on this model  
 
