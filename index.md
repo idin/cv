@@ -127,3 +127,4 @@ Databricks, Snowflake, Tableau, AWS
 ---
 
 👉 **[Download My CV (PDF)](idin.pdf)**  
+2025
