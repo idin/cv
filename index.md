@@ -7,7 +7,7 @@
 ---
 
 ## **Summary**
-Experienced Data Scientist with expertise in **Video Understanding, Computer Vision, Generative AI, Recommender Systems, and Cybersecurity**.  
+Experienced Data Scientist with expertise in **Supervised/Unsupervised ML, Video Understanding, Computer Vision, Generative AI, and Recommender Systems**.  
 
 ---
 
