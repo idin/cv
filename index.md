@@ -1,20 +1,20 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 # Idin Karuei  
-**PhD in Computer Science | Applied Scientist at Amazon | 10+ years of industry experience**  
+**PhD in Computer Science | AI Engineer and Data Scientist | 10+ years of industry experience**  
 🔗 **[LinkedIn](https://linkedin.com/in/idin)** | 🐙 **[GitHub](https://github.com/idin)** | 💾 **[Download My CV (PDF)](idin.pdf)**  
 
 ---
 
 ## **Summary**
 Experienced Data Scientist with expertise in **Machine Learning, Credit Risk, Investment Research, Cybersecurity, and Ad Sourcing**.  
-Author of several Python packages:
-#### `C:\> pip install` **[atlantis🌋](https://pypi.org/project/atlantis)  [abstract🕸️](https://pypi.org/project/abstract)  [pensieve🧠](https://pypi.org/project/pensieve)  [linguistics🈺](https://pypi.org/project/linguistics)  [amazonian🐊](https://pypi.org/project/amazonian)  [nightingale🐦](https://pypi.org/project/nightingale)  [silverware🍴](https://pypi.org/project/silverware)**
 
 ---
 
 ## **WORK EXPERIENCE**  
-#### **Applied Scientist II** — [Amazon](https://amazon.com) — *2024.01 — Now*  
+#### **Principal Data Scientist** — [Quickplay](https://www.quickplay.com) — *2026.01 – Now*  
+#### **Staff Data Scientist** — [RBC Borealis](https://rbcborealis.com) — *2025.05 – 2026.01*  
+#### **Applied Scientist II** — [Amazon](https://amazon.com) — *2024.01 – 2024.12*  
 #### **Sr. Staff Data Scientist** — [SecurityScorecard](https://securityscorecard.com) — *2021.05 – 2023.07*  
 #### **Sr. Data Scientist** — [Orbis Investments](https://www.orbis.com) — *2017.10 – 2021.04*  
 #### **Data Scientist** — [Crelogix](https://www.crelogix.com) — *2015.08 – 2017.08*  
@@ -51,6 +51,21 @@ Databricks, Snowflake, Tableau, AWS
 
 ## **Projects & Achievements**
 
+### **Smart Video Cropping** – [Quickplay](https://www.quickplay.com)
+- Leading a pipeline for crop trajectories in any aspect ratio, e.g. *9:16*  
+- Multi-stage *object detection*, tracking, target and layout selection, fitting  
+- Evaluation and diagnostics workflows for perceptual quality  
+
+### **LLM-as-a-Judge Evaluation** – [RBC Borealis](https://rbcborealis.com)
+- *LLM-as-a-judge* recommendation evaluation for wealth management  
+- Built a validation framework for the LLM-as-a-judge methods  
+- AI for wealth management: Next Best Conversation, Meeting Preparation  
+
+### **AI-Assisted Engineering Infrastructure** – [Quickplay](https://www.quickplay.com)
+- Reusable *Cursor* / *Claude* workflows: shared rules, skills, quality gates  
+- Diagnostics and *regression systems* that keep fast engineering reliable  
+- Human-in-the-loop evaluation and AI team operating models  
+
 ### **Semantic Substitute Ad Sourcing** – [Amazon](https://amazon.com)
 - Implemented ad sourcing models using *embeddings* of products and ads  
 - Developed *KNN search* for finding substitute products based on similarity  
@@ -82,10 +97,6 @@ Databricks, Snowflake, Tableau, AWS
 - Coordinating changes, analyzing impact, and ungating (releasing changes)  
 - Teams involved: *Attribution, Data Services, Sales, Customer Support*  
 - Reduced the ungating failure rate from *50% to 0%*  
-
-### **Team Building** – [SecurityScorecard](https://securityscorecard.com)
-- Helped design the hiring process and recruited data scientists and analysts  
-- Designed interviews, managed the hiring process, trained interviewers  
 
 ### **Scoring Weight Adjustment** – [SecurityScorecard](https://securityscorecard.com)
 - Led the initiative to find a new set of weights for scoring (the main product of the company)  
