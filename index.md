@@ -54,7 +54,7 @@ Databricks, Snowflake, Tableau, AWS
 ### **Smart Video Cropping** – [Quickplay](https://www.quickplay.com)
 - Created the smart-crop pipeline for flagship product *AI Studio*  
 - Converts landscape video to any aspect ratio, e.g. *9:16*  
-- Multi-stage *object detection*, tracking, target and layout selection, fitting  
+- Scene detection, *object tracking*, target selection, trajectory fitting  
 - Evaluation and diagnostics workflows for perceptual quality  
 
 ### **LLM-as-a-Judge Evaluation** – [RBC Borealis](https://rbcborealis.com)
