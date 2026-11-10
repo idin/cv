@@ -12,7 +12,7 @@ Experienced Data Scientist with expertise in **Supervised/Unsupervised ML, Video
 ---
 
 ## **WORK EXPERIENCE**  
-#### **Head of Data Science** — [Quickplay](https://www.quickplay.com) — *2026.01 – Now*  
+#### **Principal & Head of Data Science** — [Quickplay](https://www.quickplay.com) — *2026.01 – Now*  
 #### **Staff Data Scientist** — [RBC Borealis](https://rbcborealis.com) — *2025.05 – 2026.01*  
 #### **Applied Scientist II** — [Amazon](https://amazon.com) — *2024.01 – 2024.12*  
 #### **Sr. Staff Data Scientist** — [SecurityScorecard](https://securityscorecard.com) — *2021.05 – 2023.07*  
