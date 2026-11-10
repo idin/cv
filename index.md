@@ -7,7 +7,7 @@
 ---
 
 ## **Summary**
-Experienced Data Scientist with expertise in **Machine Learning, Credit Risk, Investment Research, Cybersecurity, and Ad Sourcing**.  
+Experienced Data Scientist with expertise in **Video Understanding, Computer Vision, Generative AI, Recommender Systems, and Cybersecurity**.  
 
 ---
 
